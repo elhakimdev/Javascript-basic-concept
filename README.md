@@ -1,5 +1,5 @@
 # ***JAVASCRIPT BASIC*** ***[Beginner's Guide]***
-``` a repositories about learingn basically javascript progrmming lanuage ```
+A mastery javascript from newbie to ninja
 ## Roadmap
 ***Javascript Types & Grammar***
 
